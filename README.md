@@ -31,15 +31,21 @@ Some other files including the final.csv and new_dict_data are the data sources 
 1.) Text Input: A bird with blue body and black beak.
 
 Original Image
+
 ![alt text](CUB_200/result/caspian_original.jpg)
+
 Generated Image
+
 ![alt text](CUB_200/result/caspian_output_3.jpg)
 
 2.) Text Input: Bird having black feathers.
 
 Original Image
+
 ![alt text](CUB_200/result/glaucous_original.jpg)
+
 Generated Image
+
 ![alt text](CUB_200/result/glaucous_output_1.jpg)
 
 3.) Text Input: A bird having a light blue color and pink neck.
